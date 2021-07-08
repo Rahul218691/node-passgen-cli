@@ -3,7 +3,7 @@ CLI Interface built using nodejs to generate passwords
 
 Simple Password Generator
 
-Options:
+Options:  
   -V, --version         output the version number  
   -l,--length <number>  length of password (default: "8")  
   -s,--save             save password to password.txt  
